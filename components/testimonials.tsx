@@ -1,11 +1,11 @@
 import Image from 'next/image'
 import { MessageCircleHeart } from 'lucide-react'
 
-const prints = [
-  { src: '/media/depo-1.jpeg', alt: 'Depoimento de fã sobre o conteúdo' },
-  { src: '/media/depo-2.jpeg', alt: 'Depoimento de fã sobre o conteúdo' },
-  { src: '/media/depo-3.jpeg', alt: 'Depoimento de fã sobre o conteúdo' },
-  { src: '/media/depo-4.jpeg', alt: 'Depoimento de fã sobre o conteúdo' },
+const testimonials = [
+  { src: "/sitedojobteste/media/depo-1.jpeg", alt: "Depoimento" },
+  { src: "/sitedojobteste/media/depo-2.jpeg", alt: "Depoimento" },
+  { src: "/sitedojobteste/media/depo-3.jpeg", alt: "Depoimento" },
+  { src: "/sitedojobteste/media/depo-4.jpeg", alt: "Depoimento" },
 ]
 
 export function Testimonials() {
@@ -23,7 +23,7 @@ export function Testimonials() {
         </div>
 
         <div className="mt-14 columns-1 gap-4 sm:columns-2">
-          {prints.map((item) => (
+          {testimonials.map((item) => (
             <div
               key={item.src}
               className="premium-card group mb-4 break-inside-avoid overflow-hidden rounded-2xl p-2 transition-all duration-300 hover:-translate-y-1 hover:border-[#e01943]/30"
