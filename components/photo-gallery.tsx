@@ -1,10 +1,18 @@
 import Image from 'next/image'
 
 const photos = [
-  { src: '/media/certa.png', alt: 'Gleicy Branquinha - selfie no espelho' },
-  { src: '/media/111.jpeg', alt: 'Gleicy Branquinha - beira da piscina' },
-  { src: '/media/foto-3.jpeg', alt: 'Gleicy Branquinha - vista do lago' },
-
+  {
+    src: "/sitedojobteste/media/certa.png",
+    alt: "Gleicy Branquinha - selfie no espelho",
+  },
+  {
+    src: "/sitedojobteste/media/111.jpeg",
+    alt: "Gleicy Branquinha - beira da piscina",
+  },
+  {
+    src: "/sitedojobteste/media/foto-3.jpeg",
+    alt: "Gleicy Branquinha - vista do lago",
+  },
 ]
 
 export function PhotoGallery() {
