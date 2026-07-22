@@ -2,15 +2,15 @@ import Image from 'next/image'
 
 const photos = [
   {
-    src: "/sitedojobteste/media/certa.png",
+    src: "/media/certa.png",
     alt: "Gleicy Branquinha - selfie no espelho",
   },
   {
-    src: "/sitedojobteste/media/111.jpeg",
+    src: "/media/111.jpeg",
     alt: "Gleicy Branquinha - beira da piscina",
   },
   {
-    src: "/sitedojobteste/media/foto-3.jpeg",
+    src: "/media/foto-3.jpeg",
     alt: "Gleicy Branquinha - vista do lago",
   },
 ]

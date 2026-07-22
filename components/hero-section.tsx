@@ -71,7 +71,7 @@ export function HeroSection() {
             <div className="media-frame red-edge relative overflow-hidden rounded-[2rem] bg-black p-1.5 sm:rounded-[2.4rem]">
               <div className="relative overflow-hidden rounded-[1.65rem] sm:rounded-[2rem]">
                 <Image
-                  src="/sitedojobteste/media/111.jpeg"
+                  src="/media/111.jpeg"
                   alt="Gleicy Branquinha"
                   width={960}
                   height={1280}

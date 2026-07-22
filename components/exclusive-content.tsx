@@ -43,7 +43,7 @@ export function ExclusiveContent() {
               <div className="relative overflow-hidden rounded-[1.65rem] sm:rounded-[2rem]">
                 <video
   className="aspect-[3/4] w-full object-cover"
-  src="/sitedojobteste/media/video-1.mp4"
+  src="/media/video-1.mp4"
   autoPlay
   loop
   muted
