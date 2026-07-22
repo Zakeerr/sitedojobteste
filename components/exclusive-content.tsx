@@ -42,12 +42,14 @@ export function ExclusiveContent() {
             <div className="media-frame red-edge relative overflow-hidden rounded-[2rem] bg-black p-1.5 sm:rounded-[2.4rem]">
               <div className="relative overflow-hidden rounded-[1.65rem] sm:rounded-[2rem]">
                 <video
-              className="aspect-[3/4] w-full object-cover"
-               src="/sitedojobteste/media/video-1.mp4"
-               controls
-               muted
-               playsInline
-               preload="auto"
+  className="aspect-[3/4] w-full object-cover"
+  src="/sitedojobteste/media/video-1.mp4"
+  autoPlay
+  loop
+  muted
+  playsInline
+  preload="auto"
+  aria-label="Prévia do conteúdo exclusivo"
 />
               
                 <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/75 via-transparent to-black/10" />
