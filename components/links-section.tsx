@@ -11,7 +11,7 @@ const links = [
   },
   {
 <<<<<<< HEAD
-    href: 'https://wa.me/5511 97075‑0143',
+    href: 'https://wa.me/5511970750143',
 =======
     href: 'https://wa.me/5511947231742',
 >>>>>>> origin/main
