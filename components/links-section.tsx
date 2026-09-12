@@ -9,12 +9,8 @@ const links = [
     Icon: Crown,
     primary: true,
   },
-  {
-<<<<<<< HEAD
+    {
     href: 'https://wa.me/5511970750143',
-=======
-    href: 'https://wa.me/5511947231742',
->>>>>>> origin/main
     label: 'WhatsApp',
     sub: 'Fala comigo agora, respondo pessoalmente',
     Icon: WhatsappIcon,
