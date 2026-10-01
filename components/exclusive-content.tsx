@@ -9,12 +9,12 @@ const features = [
   {
     Icon: Compass,
     title: 'Novas aventuras',
-    desc: 'Performances exclusivas registradas em ângulos surpreendentes.',
+    desc: 'Novos conteúdos exclusivos atualizados regularmente.',
   },
   {
     Icon: ZoomIn,
     title: 'Qualidade nos detalhes',
-    desc: 'Imagem de alta qualidade para você aproveitar cada detalhe de perto.',
+    desc: 'Imagens em alta qualidade.',
   },
   {
     Icon: Users,

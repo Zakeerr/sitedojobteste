@@ -34,7 +34,7 @@ export function PiracyWarning() {
         </div>
 
         <p className="mt-9 text-[0.62rem] font-semibold uppercase tracking-[0.2em] text-white/22">
-          © {new Date().getFullYear()} Gleicy Branquinha • Conteúdo +18
+          © {new Date().getFullYear()} Gleicy Branquinha  
         </p>
       </div>
     </footer>

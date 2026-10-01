@@ -5,7 +5,7 @@ const links = [
   {
     href: 'https://privacy.com.br/checkout/gleicybranquinha',
     label: 'área exclusiva',
-    sub: 'Meu conteúdo exclusivo, sem censura',
+    sub: 'Meu conteúdo exclusivo',
     Icon: Crown,
     primary: true,
   },

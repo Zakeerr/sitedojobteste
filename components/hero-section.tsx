@@ -15,18 +15,12 @@ export function HeroSection() {
             </span>
           </a>
 
-          <span className="age-badge inline-flex items-center gap-2 rounded-full px-3 py-1.5 text-[0.62rem] font-extrabold uppercase tracking-[0.22em]">
-            <LockKeyhole className="h-3 w-3 text-crimson-hot" aria-hidden="true" />
-            Área +18
-          </span>
+        
         </header>
 
         <div id="inicio" className="flex flex-col items-center gap-12 pt-14 sm:pt-20 md:flex-row md:gap-16 lg:gap-24">
           <div className="flex-1 text-center md:text-left">
-            <span className="warm-badge inline-flex items-center gap-2 rounded-full px-4 py-2 text-[0.66rem] font-extrabold uppercase tracking-[0.24em] backdrop-blur-md">
-              <ShieldCheck className="h-3.5 w-3.5 text-crimson-hot" aria-hidden="true" />
-              Conteúdo exclusivo e privativo
-            </span>
+            
 
             <h1 className="title-shine mt-7 font-display text-[3.55rem] font-semibold leading-[0.88] text-balance sm:text-7xl lg:text-[6.3rem]">
               Gleicy
@@ -60,7 +54,7 @@ export function HeroSection() {
                 <span className="text-left text-[0.68rem] font-semibold uppercase leading-5 tracking-[0.16em] text-white/45">
                   Acesso imediato
                   <br />
-                  <span className="text-crimson-soft">100% privativo</span>
+                  <span className="text-crimson-soft"></span>
                 </span>
               </div>
             </div>
@@ -83,10 +77,10 @@ export function HeroSection() {
                   <div className="flex items-end justify-between gap-4">
                     <div>
                       <span className="text-crimson-soft text-[0.62rem] font-extrabold uppercase tracking-[0.25em]">
-                        Conteúdo premium
+                        
                       </span>
                       <p className="mt-1 font-display text-2xl font-semibold text-white">
-                        Só para você
+                       
                       </p>
                     </div>
                     <span className="icon-crimson flex h-11 w-11 items-center justify-center rounded-full border backdrop-blur-md">
