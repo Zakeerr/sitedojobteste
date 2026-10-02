@@ -2,7 +2,7 @@ import Image from 'next/image'
 import { MessageCircleHeart } from 'lucide-react'
 
 const testimonials = [
-  { src: "/media/depo-1.jpeg", alt: "Depoimento" },
+  
   { src: "/media/depo-2.jpeg", alt: "Depoimento" },
   { src: "/media/depo-3.jpeg", alt: "Depoimento" },
   { src: "/media/depo-4.jpeg", alt: "Depoimento" },

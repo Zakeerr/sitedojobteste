@@ -10,7 +10,7 @@ const photos = [
     alt: "Gleicy Branquinha - beira da piscina",
   },
   {
-    src: "/media/foto-3.jpeg",
+    src: "/media/atual.jpeg",
     alt: "Gleicy Branquinha - vista do lago",
   },
 ]
@@ -22,7 +22,7 @@ export function PhotoGallery() {
         <div className="mx-auto mb-12 max-w-3xl text-center sm:mb-16">
           <span className="section-kicker">Galeria exclusiva</span>
           <h2 className="title-shine mt-5 font-display text-5xl font-semibold leading-[0.95] text-balance sm:text-6xl">
-            Conheça meu <span className="title-highlight">conteúdo</span>
+            Conheça meu<span className="title-highlight">conteúdo</span>
           </h2>
           <p className="mx-auto mt-5 max-w-md text-sm leading-7 text-white/48 sm:text-base">
             Uma pequena prévia da experiência que está esperando por você.
