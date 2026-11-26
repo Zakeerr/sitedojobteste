@@ -1,4 +1,4 @@
-import { WhatsappIcon } from '@/components/brand-icons'
+import { TelegramIcon, WhatsappIcon } from '@/components/brand-icons'
 import { ArrowUpRight, Crown, ShieldCheck } from 'lucide-react'
 
 const links = [
@@ -14,6 +14,13 @@ const links = [
     label: 'WhatsApp',
     sub: 'Fala comigo agora, respondo pessoalmente',
     Icon: WhatsappIcon,
+    primary: false,
+  },
+  {
+    href: 'https://t.me/ciane_01',
+    label: 'Telegram',
+    sub: 'Me chama no Telegram',
+    Icon: TelegramIcon,
     primary: false,
   },
 ]
